@@ -1,0 +1,15 @@
+git 은 버전관리 시스템이다 
+
+github 은 여러명의 개발자가 원격 repo에서 함깨 개발하고 교류하는 곳이다
+
+git 초기화, 커밋,커밋내용 보는법, 로컬rep vs 원격repo, 트래킹, 푸쉬, 풀, 클론 을 하는법을 배웠다
+
+ 
+
+그리고 Markdown에 대해 배웠다..https://www.markdowntutorial.com/lesson/3/)
+
+ 
+
+그리고 TIL 작성은 중요하다!
+
+
