@@ -1,1 +1,6 @@
 나는 오늘 github 에 대해 배웠다. 
+
+markdown 이뭐지??
+**hello**
+_hello_
+[hello](www.google.com)
